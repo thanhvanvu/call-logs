@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none !important;
+}
+.ant-table-thead {
+  .ant-table-cell {
+    background-color: #2196f3 !important;
+  }
+}
+
+p {
+  margin: 0 !important;
+}
+
+.ant-table .ant-table-title {
+  padding-left: 0 !important;
+}
+
+.ant-btn-primary {
+  background-color: #5295ff;
+}
+
+.nav-link:focus {
+  color: #5295ff !important;
+}
+
+.call-logs-table-row {
+  height: 80px;
+}
