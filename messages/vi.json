@@ -1,0 +1,57 @@
+{
+  "homepage": {
+    "title": "Không tìm thấy <callLogs>Lịch sử cuộc gọi</callLogs> ? Xem tại đây",
+    "description": "Xem thông tin chi tiết toàn diện về mô hình giao tiếp của bạn với nhật ký cuộc gọi và số liệu thống kê chi tiết. Dễ dàng theo dõi thời lượng cuộc gọi, kiểm tra các cuộc gọi nhỡ và phân tích tổng thể hoạt động liên lạc để tối ưu hóa hiệu suất và duy trì kết nối."
+  },
+  "header": {
+    "get-started": "BẮT ĐẦU",
+    "guide": "Hướng dẫn tìm file JSON"
+  },
+  "call-logs": {
+    "click-upload": "Nhấn vào đây để tải file lên",
+    "upload-note": "Hỗ trợ tải nhiều file cùng một lúc. Chỉ hỗ trợ file JSON",
+    "guide": "Không có sẵn file JSON? Tới trang này để tìm",
+    "data-title": "Lịch sử cuộc gọi giữa {nameA} và {nameB} trên",
+    "sample-data-title": "Đây là lịch sử dữ liệu mẫu trên",
+    "reset-filter": "Đặt lại bộ lọc",
+    "delete-action": "Ẩn/Hiện xóa cột thao tác",
+    "date": "Ngày",
+    "sender": "Người Gửi",
+    "content": "Nội Dung",
+    "call-end": "Kết Thúc Cuộc Gọi Lúc",
+    "call-duration": "Thời Lượng Cuộc Gọi",
+    "action": "Thao tác",
+    "pagination": "trên tổng",
+    "statistic": "Thống kê lịch sử cuộc gọi",
+    "success": "Tổng số cuộc gọi thành công và thời lượng",
+    "success-from-A": "Tổng cuộc gọi từ {nameA} và thời lượng",
+    "success-from-B": "Tổng cuộc gọi từ {nameB} và thời lượng",
+    "missed": "Tổng số cuộc gọi nhỡ",
+    "missed-from-A": "Tổng cuộc gọi nhỡ từ {nameA}",
+    "missed-from-B": "Tổng cuộc gọi nhỡ từ {nameB}",
+    "time": "lần"
+  },
+  "json-guide": {
+    "step1": "Trong trang Facebook, chọn icon ở góc trên phải để xổ menu xuống.",
+    "step2": "Chọn 'Settings & Privacy'.",
+    "step3": "Chọn 'Download your information'.",
+    "step4": "Facebook sẽ đưa bạn qua trang khác.",
+    "step5": "Chọn 'Download or transfer information'.",
+    "step6": "Chọn Facebook và sau đó chọn Next.",
+    "step7": "Chọn 'Specific types of information'.",
+    "step8": "Chỉ chọn 'Messages' trong danh sách.",
+    "step9": "Chọn nơi mà bạn muốn lưu dữ liệu.",
+    "step10": "Quan trọng: Chọn **Format: JSON** và **Media quality: Low**.",
+    "step11": "Đợi tải dữ liệu xuống. Sau khi giải nén, dữ liệu của bạn sẽ giống trong hình dưới đây.",
+    "step12": "Theo đường dẫn dưới đây để tìm tới file JSON:"
+  },
+  "mobile-modal": {
+    "title": "Nên sử dụng Desktop",
+    "line1": "Để có trải nghiệm tốt nhất, chúng tôi khuyến nghị nên sử dụng PC hoặc laptop.",
+    "line2": "Hoặc có thể bật chế độ 'Desktop site' trong cài đặt của trình duyệt điện thoại."
+  },
+  "common": {
+    "get-started": "BẮT ĐẦU",
+    "guide": "Hướng dẫn tìm file JSON"
+  }
+}

@@ -35,9 +35,10 @@ import {
   Tooltip,
   Legend,
 } from "chart.js";
-import Link from "next/link";
+
 import { FilterValue } from "antd/es/table/interface";
 import { readFileAsText } from "@/app/utils/helper";
+import { Link } from "@/i18n/routing";
 
 interface IRawLogType {
   call_duration: number;

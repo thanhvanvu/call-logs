@@ -2,11 +2,12 @@
 
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
-import Link from "next/link";
+
 import icon from "@/app/favicon.ico";
 import Image from "next/image";
 import { Button } from "antd";
 import { redirect } from "next/navigation";
+import { Link } from "@/i18n/routing";
 
 const Header = () => {
   return (

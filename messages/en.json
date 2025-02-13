@@ -1,0 +1,57 @@
+{
+  "homepage": {
+    "title": "Can not find <callLogs>Call Logs</callLogs> ? View Them Here",
+    "description": "Gain comprehensive insights into your communication patterns with detailed call logs and statistics. Effortlessly monitor call durations, track missed calls, and analyze overall communication activity to optimize efficiency and stay connected."
+  },
+  "header": {
+    "get-started": "GET STARTED",
+    "guide": "Guide how to find JSON file"
+  },
+  "call-logs": {
+    "click-upload": "Click to this area to upload",
+    "upload-note": "Support for a multiple upload. Only support JSON file",
+    "guide": "Do not have JSON file? Go here to find it",
+    "data-title": "Call logs between {nameA} and {nameB} on",
+    "sample-data-title": "This is a sample data for call logs on",
+    "reset-filter": "Reset Filter",
+    "delete-action": "Hide/Show Delete action",
+    "date": "Date",
+    "sender": "Sender",
+    "content": "Content",
+    "call-end": "Call End Time At",
+    "call-duration": "Call Duration",
+    "action": "Action",
+    "pagination": "out of",
+    "statistic": "Call log history statistics",
+    "success": "Total success call and duration",
+    "success-from-A": "Total call from {nameA} and duration",
+    "success-from-B": "Total call from {nameB} and duration",
+    "missed": "Total missed call",
+    "missed-from-A": "Total missed call from {nameA}",
+    "missed-from-B": "Total missed call from {nameB}",
+    "time": "times"
+  },
+  "json-guide": {
+    "step1": "In your Facebook page, click the top-right icon to open the dropdown menu.",
+    "step2": "Click on 'Settings & Privacy'.",
+    "step3": "Click on 'Download your information'.",
+    "step4": "Facebook will take you to another page.",
+    "step5": "Click on 'Download or transfer information'.",
+    "step6": "Choose Facebook and then Next.",
+    "step7": "Click on 'Specific types of information'.",
+    "step8": "Select only 'Messages' from the list.",
+    "step9": "Choose where you want to save the file.",
+    "step10": "Important: Choose **Format: JSON** and **Media quality: Low**.",
+    "step11": "Wait for the download. Once extracted, your files will look like this.",
+    "step12": "Follow this path to find your JSON file:"
+  },
+  "mobile-modal": {
+    "title": "Best Viewed on Desktop",
+    "line1": "For an optimal experience, we recommend using a PC or laptop.",
+    "line2": "Or enable “Desktop site“ on your mobile browser settings."
+  },
+  "common": {
+    "get-started": "GET STARTED",
+    "guide": "Guide how to find JSON file"
+  }
+}

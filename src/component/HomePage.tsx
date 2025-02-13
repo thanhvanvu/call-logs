@@ -3,9 +3,10 @@ import Image from "next/image";
 import React, { useEffect, useState } from "react";
 import picture from "../../public/combined_stylized.jpg";
 import { Button } from "antd";
-import Link from "next/link";
+
 import MobileModal from "./mobile.modal";
 import { useCurrentApp } from "@/context/app.context";
+import { Link } from "@/i18n/routing";
 function Homepage() {
   const [isOpenModal, setIsOpenModal] = useState<boolean>(false);
   // Check screen size
