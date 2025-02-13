@@ -1,6 +1,5 @@
 import "./globals.css";
 import { Inter } from "next/font/google";
-import "bootstrap/dist/css/bootstrap.min.css";
 import "antd/dist/reset.css";
 import Header from "@/component/Header";
 import { AntdRegistry } from "@ant-design/nextjs-registry";
@@ -46,7 +45,7 @@ export default async function RootLayout({
             }}
           >
             <NextIntlClientProvider messages={messages}>
-              <Header />
+              {/* <Header /> */}
               <div className="">
                 <AntdRegistry>{children}</AntdRegistry>
               </div>
